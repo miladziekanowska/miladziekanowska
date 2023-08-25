@@ -4,16 +4,21 @@ Hi! Welcome to my github profile. I will be your host, Miła (which translated t
 
 Having graduated a Data Science bootcamp (certificate pending) and after hundreds of hours of trials, errors, documentation reads, articles and coding tutorials, I am one step closer to become a full blown data scientist of the modern era 🤓. Currently I am reviewing my studies from the bootcamp and growing my portfolio in the direction of Data Analyst and Data Scientist, with further exploration and deeper understanding. 
 
+Besides my github page, you can also find me on:  
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/miladziekanowska)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miłosława-dziekanowska/)  [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/truposzeq) [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/miladziekanowska)
+
 Please feel free to explore my repositories, you might find some useful notes for various topics (*warning! some might still contain errors as of now or not be completed!*). For easier project access, I curated a special table:
 | **Project** | **Brief Description** | **Scope** | **Status** |
 |--|--|--|--|
-| [Stock Market Data Forecasting](https://github.com/miladziekanowska/stock-market-forecast-project) | Time series forcasting using LSTM and technical analysis tools. Created in collaboration with bootcamp colleagues! | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Deep%20Learning-FF90BB) ![page](https://img.shields.io/badge/Time%20Series-FFECEC) ![page](https://img.shields.io/badge/Vizualization-5C469C) ![page](https://img.shields.io/badge/Clustering-C4B0FF) | 50% |
-| Supply Chain Analysis | In-depth analysis with visualization od Supply Chain data. This is a general analysis with story-telling notebook. | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Vizualization-5C469C) ![page](https://img.shields.io/badge/Data%20Cleaning-DBC4F0) ![page](https://img.shields.io/badge/Statistics-9BE8D8) | 0% |
-| Asteroid Classification | Classification of asteroid types based on their features. Model used for predictions: XXX | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Statistics-9BE8D8) ![page](https://img.shields.io/badge/Classification-FCAEAE) | 0% |
-*more to come*
+| 📈 [Stock Market Data Forecasting](https://github.com/miladziekanowska/stock-market-forecast-project) | Time series forcasting using LSTM and technical analysis tools. Created in collaboration with bootcamp colleagues! | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Deep%20Learning-FF90BB) ![page](https://img.shields.io/badge/Time%20Series-FFECEC) ![page](https://img.shields.io/badge/Vizualization-5C469C) ![page](https://img.shields.io/badge/Clustering-C4B0FF) | 50% |
+| ⛓️ [Supply Chain Analysis](https://github.com/miladziekanowska/supply-chain-analysis) | In-depth analysis with visualization od Supply Chain data. This is a general analysis with story-telling notebook. | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Vizualization-5C469C) ![page](https://img.shields.io/badge/Data%20Cleaning-DBC4F0) ![page](https://img.shields.io/badge/Statistics-9BE8D8) ![page](https://img.shields.io/badge/Feature%20Engineering-916DB3) | 15% |
+| 🌃 World Urbanization Analysis | Analysis of changes and trends in world urbanization. Made using SQL and vizualized in Tableau! |  ![page](https://img.shields.io/badge/Statistics-9BE8D8) ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/SQL-DB005B) ![page](https://img.shields.io/badge/Tableau-40128B) | 0% |
+| 🫀 Hearth Failure Predictions | Classification model on imbalanced data, with little to none possibility for failure. Model used for predictions: XXX  | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Statistics-9BE8D8) ![page](https://img.shields.io/badge/Classification-FCAEAE) ![page](https://img.shields.io/badge/Imbalanced%20Data-A1CCD1) | 0% |
+| 🧑‍🎓 Student test score regression | Regression problem with students test scores, involving much data cleaning and feature engineering. Model used for predictions: XXX | ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Regression-FFD1DA) ![page](https://img.shields.io/badge/Feature%20Engineering-916DB3) ![page](https://img.shields.io/badge/Data%20Cleaning-DBC4F0) | 0% |
+| 🛍️ Customer Clustering | Clustering supermarket clients based on their features. | ![page](https://img.shields.io/badge/Statistics-9BE8D8) ![page](https://img.shields.io/badge/Clustering-C4B0FF)  ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2) ![page](https://img.shields.io/badge/Data%20Cleaning-DBC4F0) | 0% |
 
-Besides my github page, you can also find me on:  
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/miladziekanowska)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miłosława-dziekanowska/)  [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/truposzeq) [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/miladziekanowska)
+
+
 
 Feel free to ping me anytime on any social platform! We might collaborate on something cool together 🤩
 
@@ -46,6 +51,14 @@ Time Series
 
 Clustering
 ![page](https://img.shields.io/badge/Clustering-C4B0FF)
+
+Imbalanced data
+![page](https://img.shields.io/badge/Imbalanced%20Data-A1CCD1)
+
+![page](https://img.shields.io/badge/Feature%20Engineering-916DB3)
+
+![page](https://img.shields.io/badge/SQL-DB005B)
+![page](https://img.shields.io/badge/Tableau-40128B)
 
 
 **miladziekanowska/miladziekanowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
