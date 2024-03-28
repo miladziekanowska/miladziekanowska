@@ -1,5 +1,5 @@
 ## Welcome to my page! Miła to meet you! 🥳
-
+<!--
 Hi! Welcome to my github profile. I will be your host, Miła (which translated to english would be somewhere near *Nice*) and I am an aspiring data scientist with passion for statistics, data analytics and ML models creation. And dad jokes (as you could already tell).
 
 Having graduated a Data Science bootcamp (certificate pending) and after hundreds of hours of trials, errors, documentation reads, articles and coding tutorials, I am one step closer to become a full blown data scientist of the modern era 🤓. Currently I am reviewing my studies from the bootcamp and growing my portfolio in the direction of Data Analyst and Data Scientist, with further exploration and deeper understanding. 
@@ -21,7 +21,7 @@ Feel free to ping me anytime on any social platform! We might collaborate on som
 
 
 
-<!--
+
 Data analytics
 ![page](https://img.shields.io/badge/Data%20Analytics-8A2BE2)
 
